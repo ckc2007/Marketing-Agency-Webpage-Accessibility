@@ -4,30 +4,30 @@
     margin: 0;
 }
 
-
 /* check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page. */
 
 body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* changed to a header tag */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/* this is for the header "Horiseon" */
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* this seems messy? */
-.header h1 .seo {
+/* this is the grey "seo" part of the HoriSEOn header */
+header .seo {
     color: #d9dcd6;
 }
 
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,14 +35,17 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+header div ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+
+
 
 a {
     color: #ffffff;
@@ -199,8 +202,8 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-footer h2 {
+/* made h4 to keep header in ascending order top to bottom */
+footer h4 {
     font-size: 20px;
 }
 
