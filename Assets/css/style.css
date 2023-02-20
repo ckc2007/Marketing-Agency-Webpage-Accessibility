@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+
+/* check that all links are functioning correctly. You can also increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page. */
+
 body {
     background-color: #d9dcd6;
 }
@@ -19,7 +22,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* this seems messy? */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -86,6 +89,7 @@ p {
     background-color: #2589bd;
 }
 
+/* lots of duplicate code here */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -143,6 +147,7 @@ p {
     color: #ffffff;
 }
 
+/* the following code is almost identical - can this be consolidated? */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +165,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* some of this code is identical as well - consolidate? */
 .search-engine-optimization img {
     max-height: 200px;
 }
