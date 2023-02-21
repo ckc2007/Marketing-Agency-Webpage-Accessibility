@@ -37,7 +37,7 @@
     <!-- this is where the content begins for the three main focus points - change it to <main> element // adjust this on css>> div class="content" -ok -->
     <main>
         <!-- missing id here for the link to work - adding in now - ok-->
-        <section id="search-engine-optimization">
+        <section id="search-engine-optimization" class="services">
             <!-- images should have alt attributes... -ok -->
             <!-- added a description of the image with its specific conent listed out -ok -->
             <img src="./assets/images/search-engine-optimization.jpg" 
@@ -49,7 +49,7 @@
             </p>
         </section>
          <!-- added a description of the image with its specific content listed out - ok -->
-        <section id="online-reputation-management">
+        <section id="online-reputation-management" class="services">
             <!-- images should have alt attributes... - ok -->
             <!-- added a description of the image with its specific conent listed out - ok -->
             <img src="./assets/images/online-reputation-management.jpg" 
@@ -61,7 +61,7 @@
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </section>
-        <section id="social-media-marketing">
+        <section id="social-media-marketing" class="services">
             <!-- images should have alt attributes... - ok -->
             <img src="./assets/images/social-media-marketing.jpg" 
             alt="a top-down perspective of a diverse group of professionals meeting around a table with fun-looking colorful social media web icons saying: Like, Tweet, Media, Share" 
@@ -76,34 +76,28 @@
 
 <!-- this is the benefits section that should appear as a side bar to the right -->
 <!-- changed div class benefits to <aside> -->
-    <aside>
-        <section class="benefits">
-             <!-- heading elements in sequential order? -->
+    <aside class="benefits">
+        <div class="benefit-lead">
             <h3>Lead Generation</h3>
-            <!-- images should have alt attributes - ok -->
-            <img src="./assets/images/lead-generation.png" alt="a black stamp icon with a semi-circular gear above a funnel with arrow pointing down to a dollar symbol"/>
+            <img src="./assets/images/lead-generation.png" alt="a black stamp icon with a semi-circular gear above a funnel with arrow pointing down to a dollar symbol" />
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
-        </section>
-        <section class="benefits">
-             <!-- heading elements in sequential order? -->
+        </div>
+        <div class="benefit-brand">
             <h3>Brand Awareness</h3>
-            <!-- images should have alt attributes - ok -->
             <img src="./assets/images/brand-awareness.png" alt="a black stamp icon with a person wearing a suit and tie with a lightbulb as a head radiating light waves outward" />
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
             </p>
-        </section>
-        <section class="benefits">
-             <!-- heading elements in sequential order? -->
+        </div>
+        <div class="benefit-cost">
             <h3>Cost Management</h3>
-            <!-- images should have alt attributes - ok -->
             <img src="./assets/images/cost-management.png" alt="a black stamp icon with dolar signs floating in front of a gear box" />
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
-        </section>
+        </div>
     </aside>
 
     <!-- added footer tag -->
