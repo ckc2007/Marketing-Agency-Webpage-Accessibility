@@ -83,7 +83,7 @@ h2 {
 main img {
     max-height: 200px;
 }
-/* main image placement selectors */
+/* main section image placement selectors */
 .float-left {
     float: left;
     margin-right: 25px;
