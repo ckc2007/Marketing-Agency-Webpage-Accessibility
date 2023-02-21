@@ -44,7 +44,7 @@ header li {
     margin-left: 25px;
 }
 
-/* hero formatting should come next - ok */
+/* hero formatting no change - ok */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,7 +54,7 @@ header li {
     background-position: center;
 }
 
-/* link and paragraph formatting ok */
+/* global link and paragraph formatting - ok */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -64,14 +64,27 @@ p {
     font-size: 16px;
 }
 
-/* this is the main three points of focus on the webpage now <main> */
-
+/* this is the main three points of focus on the webpage now <main>  - ok */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* image formatting */
+/* consolodate to section -ok */
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* consolodate all h2 - ok */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* main section image formatting - ok */
 main img {
     max-height: 200px;
 }
@@ -85,24 +98,8 @@ main img {
     float: right;
     margin-left: 25px;
 }
-/* consolodate to section -ok */
-main .services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* consolodate all h2 */
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-/* good up to here */
-
-/* benefits side bar below */
+/* benefits side bar now <aside> - ok */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -130,20 +127,20 @@ aside img {
 }
 
 
-/* adjusted footer tag */
+/* adjusted footer tag - ok */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* made h4 to keep header in ascending order top to bottom */
+/* made h4 to keep header in ascending order top to bottom - ok */
 footer h4 {
     font-size: 20px;
 }
 
-/* Application's links all function correctly.
+/* Application's links all function correctly. - ok
 
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+Application's CSS selectors and properties are consolidated and organized to follow semantic structure. - ok
 
-Application's CSS file is properly commented. */
+Application's CSS file is properly commented. - ok */
