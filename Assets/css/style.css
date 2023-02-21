@@ -64,10 +64,15 @@ p {
     font-size: 16px;
 }
 
-/* this is the main point of focus on the webpage now <main> */
+/* this is the main three points of focus on the webpage now <main> */
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 /* image formatting */
-section img {
+main img {
     max-height: 200px;
 }
 
@@ -94,16 +99,14 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* what is this? its not linked to anything. */
+/* this belongs to main now */
 /* .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 } */
 
-
-
+/* good up to here */
 
 /* benefits side bar below */
 .benefits {
