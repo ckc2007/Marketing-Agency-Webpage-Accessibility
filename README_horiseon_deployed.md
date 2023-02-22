@@ -1,37 +1,32 @@
-(The user story, Acceptance Criteria, and Mock Up are taken from the README of the original homework assignment README © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.)
-(It was unclear if these sections were required to be re-written, as they already were part of the project instructions. I added the Published Page section below.)
-
 ## User Story
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS AN SEO and online marketing agency
+I WANT code that reflects up-to-date accessibility standards
+SO THAT our site is an example of accessibility standards and is optimized for search engines
 ```
 
 ## Acceptance Criteria
 
 ```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
+GIVEN the website reflects correct accessbility standards
+WHEN I examine the website source code
 THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
+WHEN I view the HTML elements form and format
+THEN I see a logical structure, format and semantic flow
+WHEN I view image elements
+THEN I find alt attributes that accurately and succinctly describe the images
+WHEN I view the h attributes (headings)
+THEN THEY appear with the correct positioning, and are listed under their corresponding sections on the .css sheet
 WHEN I view the title element
-THEN I find a concise, descriptive title
+THEN I find an easy to read, terse, tagline description of what the company does (what is the webpage about?)
 ```
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+This is how the final website should appear - styling and positioning of each element is represented here.:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+![The Horiseon webpage has a logo with color elements applied to the 'seo' segment of the brand name, navigation elements are on the top right, the main section contains three main topics that represent the main focus of the page and what Horiseon is all about, and a side bar to the right that includes additional information regarding things the company represents (to reinforce the main section, and a branded tagline at the footer with a copyright element).](./assets/01-html-css-git-homework-demo.png)
 
 
 ## The Published Page!
@@ -40,4 +35,4 @@ Here is the published page link: https://ckc2007.github.io/hw-01-code-refactor/
 
 The following image shows the DEPLOYED web application's appearance:
 
-![The Horiseon webpage includes a nav bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-published.png)
+![The Horiseon page includes funcitoning navigation links, descriptive image alt attributes, a footer with copyright and a main section that has three main focus points for the companies services with acompanying images.](./assets/01-html-css-git-homework-published.png)
