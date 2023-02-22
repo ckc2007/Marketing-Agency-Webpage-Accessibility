@@ -1,3 +1,6 @@
+(The user story, Acceptance Criteria, and Mock Up are taken from the README of the original homework assignment README © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.)
+(It was unclear if these sections were required to be re-written, as they already were part of the project instructions. I added the Published Page section below.)
+
 ## User Story
 
 ```
