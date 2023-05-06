@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
 
 ## Features
 
-semantic html and css
+Semantic html and css
 
 ## Questions
 
