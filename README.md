@@ -24,6 +24,7 @@ Image of desktop site:
 ![screenshot](./assets/images/screenshot_1.png "image of deployed site for desktop")
 
 Image of mobile site:
+
 ![screenshot](./assets/images/screenshot_2.png "image of deployed site for mobile")
 
 ## Contributing
