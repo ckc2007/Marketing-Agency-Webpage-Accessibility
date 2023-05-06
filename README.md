@@ -38,7 +38,7 @@ This project is licensed under the MIT license.
 
 ## Features
 
-Semantic html and css
+Semantic HTML tags and dynamic mobile-first CSS styling
 
 ## Questions
 
