@@ -1,13 +1,13 @@
-
 # Marketing Agency Webpage Accessibility
+
 ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Refactored html and css code to meet accessibility standards.
 
 ## Description
 
-- This code refactor uses HTML semantic elements to delineate sections on the marketing webpage to meet modern accessibility standards. 
-- This ensures that people with disabilities can still access the content of the website using assistive technologies. 
+- This code refactor uses HTML semantic elements to delineate sections on the marketing webpage to meet modern accessibility standards.
+- This ensures that people with disabilities can still access the content of the website using assistive technologies.
 - Users will be able to use video captions, screen readers, braille keyboards and other assistive techonlogies to access this site.
 - Semantic HTML is the cornerstone of sustainability for a website.
 
@@ -15,18 +15,18 @@ Refactored html and css code to meet accessibility standards.
 
 If you are running this from VS Code, please view the index.html in your live server.
 
-## Screenshot / Video
+## Deployed Site
 
-![screenshot](./assets/images/screenshot.png)
-![the deployed marketing agency website]( "the deployed marketing agency website")
+Link to deployed site:
+[https://ckc2007.github.io/Marketing-Agency-Webpage-Accessibility/]
+
+Image of desktop site:
+![screenshot](./assets/images/screenshot_1.png "image of deployed site for desktop")
+
+Image of mobile site:
+![screenshot](./assets/images/screenshot_2.png "image of deployed site for mobile")
 
 ## Contributing
-
-This project was built in collaboration with ,
-whose GitHub profile can be found [here]().
-
-Third party assets used in this project include:
-
 
 Tutorials used in this project include:
 https://www.w3.org/WAI/standards-guidelines/
@@ -39,14 +39,9 @@ This project is licensed under the MIT license.
 
 semantic html and css
 
-## Tests
-
-
-
 ## Questions
 
 Please direct questions to the owner of this repository at ckc2007@gmail.com
 
 Owner GitHub page:
-[ckc2007](
-https://github.com/ckc2007).
+[ckc2007](https://github.com/ckc2007).
