@@ -2,7 +2,7 @@
 
 ![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Refactored html and css code to meet accessibility standards.
+Refactored HTML and CSS code to meet modern accessibility standards.
 
 ## Description
 
